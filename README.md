@@ -72,7 +72,7 @@ The same converged circuit transferred to FLD (frozen connectivity mask) at ~0.8
 ### Setup
 
 ```bash
-git clone https://github.com/jbswann/winasparse1bit
+git clone [https://github.com/jbswann/winasparse1bit](https://github.com/candented/sparsestack)
 cd winasparse1bit
 
 pip install -r requirements.txt
